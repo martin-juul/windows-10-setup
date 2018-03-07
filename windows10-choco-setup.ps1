@@ -50,6 +50,10 @@ choco install npmtaskrunner
 choco install yarn
 choco install python2
 choco install python3
+choco install composer
+choco install mamp
+choco install phpstorm
+choco install webstorm
 
 # Internet Utilities
 choco install deluge # After install, configure for thin-client.
