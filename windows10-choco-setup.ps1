@@ -20,6 +20,11 @@ choco install mobaxterm
 choco install filezilla
 choco install irfanview
 choco install keepassxc
+choco install authy-desktop
+choco install jdownloader
+choco install gpg4win
+choco install vlc
+choco install sumatrapdf
 
 # Install Utilities
 choco install sysinternals
